@@ -1,0 +1,1 @@
+# Detection-of-Mixed-Pixels-in-Thermal-Image
