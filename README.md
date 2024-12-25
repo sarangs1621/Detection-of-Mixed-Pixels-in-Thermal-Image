@@ -52,6 +52,7 @@ This project tackles the **Mixed Pixel Problem** in thermal imaging, enhancing p
   - **SSIM**: 0.8905
   - **MSE**: 0.0028
 - **Robustness**: Strong generalization under diverse conditions.
+  
 ![Capture](https://github.com/user-attachments/assets/f45c9747-cf84-4012-99fa-99d4cb684ac8)
 
 ### ✨ Key Takeaway
