@@ -109,7 +109,7 @@ Combining **AI** and **thermal imaging** offers a scalable, cost-effective solut
 ## 🚀 How to Use
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-repo-name.git
+   git clone https://github.com/sarangs1621/Detection-of-Mixed-Pixels-in-Thermal-Image.git
    ```
 2. **Navigate to the directory**:
    ```bash
