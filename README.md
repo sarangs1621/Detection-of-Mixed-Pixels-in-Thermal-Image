@@ -52,8 +52,7 @@ This project tackles the **Mixed Pixel Problem** in thermal imaging, enhancing p
   - **SSIM**: 0.8905
   - **MSE**: 0.0028
 - **Robustness**: Strong generalization under diverse conditions.
-![Uploading image.png…]()
-
+![Capture](https://github.com/user-attachments/assets/f45c9747-cf84-4012-99fa-99d4cb684ac8)
 
 ### ✨ Key Takeaway
 Combining **AI** and **thermal imaging** offers a scalable, cost-effective solution for precision agriculture.
@@ -105,7 +104,6 @@ Combining **AI** and **thermal imaging** offers a scalable, cost-effective solut
 3. **Advanced Segmentation**: Leverage transformers or graph-based models.
 4. **Real-World Validation**: Conduct large-scale field trials.
 5. **User-Friendly Interfaces**: Create tools accessible to non-technical users.
-
 ---
 
 ## 🚀 How to Use
@@ -125,7 +123,6 @@ Combining **AI** and **thermal imaging** offers a scalable, cost-effective solut
    ```bash
    python thermal_analysis.py
    ```
-
 ---
 
 ## 📂 Repository Structure
@@ -141,7 +138,6 @@ Combining **AI** and **thermal imaging** offers a scalable, cost-effective solut
 |-- README.md
 |-- requirements.txt
 ```
-
 ---
 
 ## 📋 Requirements
@@ -160,7 +156,6 @@ To install all dependencies, run:
 ```bash
 pip install -r requirements.txt
 ```
-
 ---
 
 ## 📚 References
