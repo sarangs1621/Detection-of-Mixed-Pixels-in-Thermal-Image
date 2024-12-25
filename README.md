@@ -1,11 +1,11 @@
 # 🌾 Mixed Pixel Detection in Thermal Images for Precision Agriculture
 
 ## 👨‍💻 Team Members:
-- **Sachin SM** (AM.EN.U4CSE21349)
-- **Sarang S Nair** (AM.EN.U4CSE21351)
-- **Shradha Saji** (AM.EN.U4CSE21352)
-- **Anaswer Ajay** (AM.EN.U4CSE21410)
-- **Mentor**: Sarath S
+- [**Sachin SM**](https://github.com/sachin02-hub)
+- [**Sarang S Nair**](https://github.com/sarangs1621)
+- [**Shradha Saji**](https://github.com/ShradhaShaji)
+- [**Anaswer Ajay**](https://github.com/imanaswer)
+- **Mentor**: [**Sarath S**](https://github.com/sarath444)
 
 ---
 
