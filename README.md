@@ -42,6 +42,7 @@ This project tackles the **Mixed Pixel Problem** in thermal imaging, enhancing p
 3. **Model**: CNN-based Autoencoder for pixel-level analysis.
 4. **Output**: Visual representation and quantitative metrics of mixed pixels.
 
+![Input Images](https://github.com/user-attachments/assets/aecf185c-5762-4eaa-bd16-4e330205d911)
 ---
 
 ## 🎯 Results & Findings
@@ -51,6 +52,8 @@ This project tackles the **Mixed Pixel Problem** in thermal imaging, enhancing p
   - **SSIM**: 0.8905
   - **MSE**: 0.0028
 - **Robustness**: Strong generalization under diverse conditions.
+![Uploading image.png…]()
+
 
 ### ✨ Key Takeaway
 Combining **AI** and **thermal imaging** offers a scalable, cost-effective solution for precision agriculture.
@@ -70,6 +73,21 @@ Combining **AI** and **thermal imaging** offers a scalable, cost-effective solut
 ### Robustness Testing:
 - Simulated various environmental conditions.
 - Added synthetic noise to test algorithm resilience.
+
+### Results Table:
+#### Image 1:
+| **Metrics**               | **Values** |
+|---------------------------|------------|
+| Mixed Pixel Percentage    | 5.58%      |
+| SSIM                      | 0.8905     |
+| MSE                       | 0.0028     |
+
+#### Image 2:
+| **Metrics**               | **Values** |
+|---------------------------|------------|
+| Mixed Pixel Percentage    | 5.53%      |
+| SSIM                      | 0.8339     |
+| MSE                       | 0.0028     |
 
 ---
 
