@@ -122,7 +122,7 @@ Combining **AI** and **thermal imaging** offers a scalable, cost-effective solut
    ```
 4. **Run the model**:
    ```bash
-   python thermal_analysis.py
+   python Thermal.ipynb
    ```
 ---
 
@@ -135,7 +135,7 @@ Combining **AI** and **thermal imaging** offers a scalable, cost-effective solut
 |   |-- autoencoder.py
 |-- results/
 |   |-- output_images/
-|-- thermal_analysis.py
+|-- Thermal.ipynb
 |-- README.md
 |-- requirements.txt
 ```
