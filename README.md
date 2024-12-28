@@ -45,6 +45,10 @@ This project tackles the **Mixed Pixel Problem** in thermal imaging, enhancing p
 ![Input Images](https://github.com/user-attachments/assets/aecf185c-5762-4eaa-bd16-4e330205d911)
 ---
 
+## Architectural Design
+![WhatsApp Image 2024-12-26 at 12 13 32 PM](https://github.com/user-attachments/assets/107f3716-0807-4b6b-98c8-6315c0df8ce8)
+---
+
 ## 🎯 Results & Findings
 - **Visual Detection**: Successfully identified and highlighted mixed pixels.
 - **Quantitative Metrics**: Achieved robust and scalable performance metrics:
