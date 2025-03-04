@@ -163,6 +163,12 @@ pip install -r requirements.txt
 ```
 ---
 
+## 🤝 Additional Resources
+#Dataset Access:
+The dataset used in this project is proprietary and is shared exclusively within Amrita University. External requests for the dataset require explicit permission from the university. Please contact the maintainers to initiate the permission process, which includes signing a consent form to ensure non-commercial use.
+
+---
+
 ## 📚 References
 1. **Jones, H. G., & Sirault, X. R. R.** (2014). Scaling of Thermal Images at Different Spatial Resolutions: The Mixed Pixel Problem. *Agronomy*, 4(3), 380–396. [DOI: 10.3390/agronomy4030380]
 2. **Santos, L., et al.** (2020). Analyzing the Effect of Spectral Interference of Mixed Pixels. *IEEE JSTARS*. [DOI: 10.1109/JSTARS.2020.3045712]
