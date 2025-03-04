@@ -61,11 +61,8 @@ This project tackles the **Mixed Pixel Problem** in thermal imaging, enhancing p
   - **MPP**: 5.58%
   - **SSIM**: 0.8905
   - **MSE**: 0.0028
-- **Robustness**: Strong generalization under diverse conditions.
-- 
+- **Robustness**: Strong generalization under diverse conditions. 
   ![Screenshot 2025-03-04 141609](https://github.com/user-attachments/assets/edc8284c-8eef-42c5-9fe8-2b2f38ce2cb5)
-
-
 
 ### ✨ Key Takeaway
 Combining **AI** and **thermal imaging** offers a scalable, cost-effective solution for precision agriculture.
