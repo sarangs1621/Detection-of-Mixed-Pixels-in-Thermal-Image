@@ -51,7 +51,7 @@ This project tackles the **Mixed Pixel Problem** in thermal imaging, enhancing p
 ---
 
 ## Block Diagram
-![Input Images](https://github.com/user-attachments/assets/fd7a3658-e3c4-43c2-a5a6-e1134cbb55f1)
+![Input Images (1)](https://github.com/user-attachments/assets/309b85b4-074a-41ca-8964-efea49f88745)
 
 ---
 
