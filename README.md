@@ -42,15 +42,17 @@ This project tackles the **Mixed Pixel Problem** in thermal imaging, enhancing p
 3. **Model**: CNN-based Autoencoder for pixel-level analysis.
 4. **Output**: Visual representation and quantitative metrics of mixed pixels.
 
-![Input Images](https://github.com/user-attachments/assets/aecf185c-5762-4eaa-bd16-4e330205d911)
+
 ---
 
 ## Architectural Design
-![WhatsApp Image 2024-12-26 at 12 13 32 PM](https://github.com/user-attachments/assets/107f3716-0807-4b6b-98c8-6315c0df8ce8)
+![Architecture](https://github.com/user-attachments/assets/69de0d39-c582-4a91-b151-f1cf04896fec)
+
 ---
 
 ## Block Diagram
-![Untitled Diagram drawio](https://github.com/user-attachments/assets/f23fa8c0-be8e-4f67-8877-d8b04b95f298)
+![Input Images](https://github.com/user-attachments/assets/fd7a3658-e3c4-43c2-a5a6-e1134cbb55f1)
+
 ---
 
 ## 🎯 Results & Findings
