@@ -1,4 +1,4 @@
-![Screenshot 2025-03-04 141609](https://github.com/user-attachments/assets/0f229af5-17fd-4be0-8813-689e743e31ed)# 🌾 Mixed Pixel Detection in Thermal Images for Precision Agriculture
+# 🌾 Mixed Pixel Detection in Thermal Images for Precision Agriculture
 
 ## 👨‍💻 Team Members:
 - [**Sachin SM**](https://github.com/sachin02-hub)
