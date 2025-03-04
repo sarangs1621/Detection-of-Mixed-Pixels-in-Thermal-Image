@@ -160,9 +160,6 @@ Combining **AI** and **thermal imaging** offers a scalable, cost-effective solut
 - **scikit-learn**
 - **OpenCV**
 
-### 🔗 Additional Resources:
-- Dataset and pretrained models available on [Google Drive](https://drive.google.com/drive/folders/1bvrStTJyLkESB-X-WDXhFHTeA5-QVFlM?usp=drive_link)
-
 To install all dependencies, run:
 ```bash
 pip install -r requirements.txt
