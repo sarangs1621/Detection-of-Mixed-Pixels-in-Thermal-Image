@@ -164,7 +164,7 @@ pip install -r requirements.txt
 ---
 
 ## 🤝 Additional Resources
-**Dataset Access**:
+**Dataset Access**
 -- The dataset used in this project is proprietary and is shared exclusively within Amrita University. External requests for the dataset require explicit permission from the university. Please contact the maintainers to initiate the permission process, which includes signing a consent form to ensure non-commercial use.
 
 ---
