@@ -1,4 +1,4 @@
-# 🌾 Mixed Pixel Detection in Thermal Images for Precision Agriculture
+![Screenshot 2025-03-04 141609](https://github.com/user-attachments/assets/0f229af5-17fd-4be0-8813-689e743e31ed)# 🌾 Mixed Pixel Detection in Thermal Images for Precision Agriculture
 
 ## 👨‍💻 Team Members:
 - [**Sachin SM**](https://github.com/sachin02-hub)
@@ -62,8 +62,10 @@ This project tackles the **Mixed Pixel Problem** in thermal imaging, enhancing p
   - **SSIM**: 0.8905
   - **MSE**: 0.0028
 - **Robustness**: Strong generalization under diverse conditions.
-  
-![Capture](https://github.com/user-attachments/assets/f45c9747-cf84-4012-99fa-99d4cb684ac8)
+- 
+  ![Screenshot 2025-03-04 141609](https://github.com/user-attachments/assets/edc8284c-8eef-42c5-9fe8-2b2f38ce2cb5)
+
+
 
 ### ✨ Key Takeaway
 Combining **AI** and **thermal imaging** offers a scalable, cost-effective solution for precision agriculture.
