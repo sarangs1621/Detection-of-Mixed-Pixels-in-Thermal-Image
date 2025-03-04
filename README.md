@@ -46,7 +46,7 @@ This project tackles the **Mixed Pixel Problem** in thermal imaging, enhancing p
 ---
 
 ## Architectural Design
-![Architecture](https://github.com/user-attachments/assets/69de0d39-c582-4a91-b151-f1cf04896fec)
+![Architecture (1)](https://github.com/user-attachments/assets/0f35eb7c-3420-4fe7-b4e7-dd13e632cef7)
 
 ---
 
